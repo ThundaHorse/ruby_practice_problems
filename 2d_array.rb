@@ -2,10 +2,13 @@
 
 # Examples:
 
-# array_1 = ['a', 'b', 'c', 'd'];
-# array_2 = [10, 20, 30, 40];
+array_1 = ['a', 'b', 'c', 'd'];
+array_2 = [10, 20, 30, 40];
 
+def zip_array(arr_1, arr_2) 
+  
 
+end 
 
 
 
