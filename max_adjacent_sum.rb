@@ -2,10 +2,16 @@
 
 # HINT: First think how we can find adjacent elements in an array!
 
+def max_adjacent_sum(array) 
+
+
+end 
+
+
 # Examples:
 
-# arr1 = [5, 6, 11, 3]
-# max_adjacent_sum(arr1) == 17
+array_1 = [5, 6, 11, 3]
+max_adjacent_sum(arr1) == 17
 
-# arr2 = [3, 2, 13, 5, 4, 7]
-# max_adjacent_sum(arr2) == 18
+array_2 = [3, 2, 13, 5, 4, 7]
+max_adjacent_sum(arr2) == 18

@@ -4,10 +4,14 @@
 # of the new array should be the sum between the 3rd and 3rd to last element
 # ... etc.
 
+def opposing_sums(array)
+
+end 
+
 # Examples:
 
-# arr1 = [3, 2, 11, 4, 7, 9]
-# opposing_sums(arr1) == [ 12, 9, 15 ]
+array_1 = [3, 2, 11, 4, 7, 9]
+p opposing_sums(array_1) == [ 12, 9, 15 ]
 
-# arr2 = [1, 2, 3, 4
-# opposing_sums(arr2) == [ 5, 5 ]
+array_2 = [1, 2, 3, 4
+p opposing_sums(array_2) == [ 5, 5 ]

@@ -3,14 +3,20 @@
 
 # Use this alphabet array to help:
 
-# alphabet = [
-#   'a','b','c','d','e','f','g','h','i','j','k','l','m',
-#   'n','o','p','q','r','s','t','u','v','w','x','y','z'
-# ]
+alphabet = [
+  'a','b','c','d','e','f','g','h','i','j','k','l','m',
+  'n','o','p','q','r','s','t','u','v','w','x','y','z'
+]
+
+def shift_chars(word, num)
+
+
+end 
+
 
 # Examples:
 
-# shift_chars('able', 1) == 'bcmf'
-# shift_chars('apple', 2) =='crrng'
-# shift_chars('bootcamp', 3) =='errwfdps'
-# shift_chars('zebra', 5) =='ejgwf'
+p shift_chars('able', 1) == 'bcmf'
+p shift_chars('apple', 2) =='crrng'
+p shift_chars('bootcamp', 3) =='errwfdps'
+p shift_chars('zebra', 5) =='ejgwf'

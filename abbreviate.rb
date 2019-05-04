@@ -4,7 +4,7 @@
 vowels = ['a', 'e', 'i', 'o', 'u'];
 
 def vowels(word) 
-
+  
 
 end 
 
