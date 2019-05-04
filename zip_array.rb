@@ -10,5 +10,5 @@ end
 array_1 = ['a', 'b', 'c', 'd']
 array_2 = [10, 20, 30, 40]
 
-result = zip_array(a1, a2)
+result = zip_array(array_1, array_2)
 result == [ [ 'a', 10 ], [ 'b', 20 ], [ 'c', 30 ], [ 'd', 40 ] ]
