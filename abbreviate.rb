@@ -3,7 +3,7 @@
 
 vowels = ['a', 'e', 'i', 'o', 'u'];
 
-def vowels(word) 
+def abbreviate(word) 
   
 
 end 
