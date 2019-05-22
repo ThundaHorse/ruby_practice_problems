@@ -5,5 +5,8 @@ def array_builder(hash)
 end 
 
 # Examples:
-p array_builder({'a': 3, 'b': 0, 'c': 2}) == [ 'a', 'a', 'a', 'c', 'c' ]
-p array_builder({'cats': 2, 'dogs': 1}) == ['cats', 'cats', 'dogs']
+hash_1 = {a: 3, b: 0, c: 2}
+hash_2 = {cats: 2, dogs: 1}
+
+p array_builder(hash_1) == [ 'a', 'a', 'a', 'c', 'c' ]
+p array_builder(hash_2) == ['cats', 'cats', 'dogs']
